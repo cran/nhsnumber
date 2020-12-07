@@ -1,0 +1,15 @@
+564bab381af40e633270a1dce2391170 *DESCRIPTION
+40c5bb0824d4008b7e091494fcb77bee *LICENSE
+1342af01693ae448059fde41e09d5a48 *NAMESPACE
+2d16fe97187a37c3d0e5f3ea77972809 *NEWS.md
+d540667260e07f4ee95985628fbf994d *R/get_checksum.R
+1b14b052a97fb9fcbdc81ff97c49e5a2 *R/is_number_valid.R
+602212b78ca2e83de5c9eda22a4f306c *R/is_valid.R
+53d26d988ae6dd40ca44c61a3e6f0381 *README.md
+070f3d666417a842d5517961e00849c1 *man/get_checksum.Rd
+ce771c809b140315418619c5b78060c1 *man/is_number_valid.Rd
+acdb0f7372a88e557c064557756659e6 *man/is_valid.Rd
+a097f7e2f2115f0737d06791c0d42ca4 *tests/testthat.R
+037b0b6e378c3c608af95ae04758e3a7 *tests/testthat/test-get_checksum.R
+5a585e43598ba8de8aa4d342caadf4bd *tests/testthat/test-is_number_valid.R
+dc07b9784ea33c36795b89c1a8b80d10 *tests/testthat/test-is_valid.R
