@@ -2,7 +2,10 @@
 # nhsnumber
 
 <!-- badges: start -->
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/nhsnumber)](https://CRAN.R-project.org/package=nhsnumber)
+[![R-CMD-check](https://github.com/sellorm/nhsnumber/workflows/R-CMD-check/badge.svg)](https://github.com/sellorm/nhsnumber/actions?query=workflow%3AR-CMD-check)
+[![codecov](https://codecov.io/gh/sellorm/nhsnumber/branch/master/graph/badge.svg?token=UUKS3SYQ0B)](https://app.codecov.io/gh/sellorm/nhsnumber)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 <!-- badges: end -->
 
 The goal of nhsnumber is to provide some simple functions for working with NHS numbers in R.
@@ -17,7 +20,13 @@ For more information, please see the [NHS number Wikipedia article](https://en.w
 
 ## Installation
 
-You can install the released version of nhsnumber from [GitHub](https://github.com/sellorm/nhsnumber) with:
+You can install the released version of nhsnumber from [CRAN](https://cran.r-project.org/package=nhsnumber) with:
+
+``` r
+install.packages("nhsnumber")
+```
+
+You can install the development version of nhsnumber from [GitHub](https://github.com/sellorm/nhsnumber) with:
 
 ``` r
 devtools::install_github("sellorm/nhsnumber")
